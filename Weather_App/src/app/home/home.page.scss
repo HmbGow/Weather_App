@@ -1,0 +1,22 @@
+ion-content {
+  --background: lightBlue;
+}
+
+.cube
+{
+
+  width: 90%;
+  max-width: 250px;
+  min-height: 250px;
+  position: absolute;
+  margin-top: 200px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background: #000000;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+}
+
+
